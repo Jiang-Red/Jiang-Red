@@ -1,7 +1,7 @@
 # 啊(〃'▽'〃)！你好呀！
 ![warma!](warma.jpg "warma图镇楼")
 ## 关于我(*･ω-q) 
-- 名字是: `**江林**` or `Jiang-Red` or ~~`DreamZero.`~~
+- 名字是: `江林` or `Jiang-Red` or ~~`DreamZero.`~~
 - 主要使用语言: **Golang**
 - 正在努力学习并致力于开发更好用的QQ机器人, 主攻项目[ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin)
 - **~~单推warma~~**
