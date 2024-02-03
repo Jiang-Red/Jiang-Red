@@ -8,6 +8,7 @@
 - 手残党, 玩音游很菜(～￣▽￣)～ 
 
 
-![Jiang-Red's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiang-Red&show_icons=true "菜")
+![Jiang-Red's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiang-Red&show_icons=true "菜") 
+![osu!mania](https://osu-sig.vercel.app/card?user=DreamZeroone&mode=mania&animation=true "触屏")
 
 > **烦恼退散~( • ̀ω•́ )✧**
